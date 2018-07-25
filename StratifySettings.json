@@ -1,0 +1,15 @@
+{
+    "bootsuffix": "_boot",
+    "buildprefix": "build_",
+    "change": "Added ID to kernel",
+    "description": "This BSP can be used to run Stratify OS on the Nucleo-F722ZE board.",
+    "github": "https://github.com/StratifyLabs/Nucleo-F722ZE",
+    "hardwareid": "0x00000018",
+    "name": "Nucleo-F722ZE",
+    "permissions": "public",
+    "publisher": "Stratify Labs, Inc",
+    "tags": "stm32,arm,cortex-m7",
+    "type": "StratifyKernel",
+    "uid": "QSW7bQHeDqhJEcZ0mxQ5SmEYUSL2",
+    "version": "0.9"
+}
