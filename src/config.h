@@ -30,7 +30,7 @@ limitations under the License.
 #define SOS_BOARD_SYSTEM_CLOCK 216000000
 #define SOS_BOARD_SYSTEM_MEMORY_SIZE (8192*3)
 #define SOS_BOARD_ID "-LFEdqONiZRbxTE9946n"
-#define SOS_BOARD_VERSION "0.9"
+#define SOS_BOARD_VERSION "0.11"
 #define SOS_BOARD_NAME "Nucleo-F722ZE"
 
 #define SOS_BOARD_USB_RX_BUFFER_SIZE 512
