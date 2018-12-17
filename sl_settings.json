@@ -7,7 +7,7 @@
    "tags": "stm32,arm,cortex-m7",
    "type": "bsp",
    "uid": "9cQyOTk3fZXOuMtPyf5j9X4H4b83",
-   "version": "0.13",
+   "version": "0.14",
    "hardwaredId": "0x00000018",
    "mbedMountName": "NODE_F722ZE",
    "documentId": "s61eUqIGIdpmv1hJkhBH",
