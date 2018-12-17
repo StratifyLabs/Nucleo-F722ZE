@@ -6,7 +6,7 @@
    "publisher": "Stratify Labs, Inc",
    "tags": "stm32,arm,cortex-m7",
    "type": "bsp",
-   "uid": "QSW7bQHeDqhJEcZ0mxQ5SmEYUSL2",
+   "uid": "9cQyOTk3fZXOuMtPyf5j9X4H4b83",
    "version": "0.13",
    "hardwaredId": "0x00000018",
    "mbedMountName": "NODE_F722ZE",
@@ -14,6 +14,8 @@
    "buildList": {
       "0ZOHz6sVnJSj86cWu2RM": "0.9",
       "Qgm9Lxy2iHmr9EEqebnm": "0.10",
-      "vTa5C9IhUxubnXeJvVNM": "0.12"
-   }
+      "vTa5C9IhUxubnXeJvVNM": "0.12",
+      "ceTtDXLIE9s5cKMzuKIk": "0.13"
+   },
+   "timestamp": 1545024271
 }
